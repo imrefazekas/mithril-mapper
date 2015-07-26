@@ -1,0 +1,37 @@
+{
+  "name": "mithril-mapper",
+  "version": "1.0.0",
+  "mod-project-name": "mithril-mapper",
+  "description": "mithril-mapper",
+  "keywords": [
+    "mithril",
+    "mapper",
+	"plain"
+  ],
+  "homepage": "https://github.com/imrefazekas/mithril-mapper",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imrefazekas/mithril-mapper.git"
+  },
+  "bugs": {
+    "url": "http://github.com/imrefazekas/mithril-mapper/issues"
+  },
+  "author": {
+    "name": "Imre Fazekas",
+    "email": "imre.fazekas@icloud.com"
+  },
+  "license": "MIT",
+  "main": "lib/MithrilMapper.js",
+  "dependencies": {
+    "isa.js": "latest",
+    "mithril": "~0.2",
+    "moment": "~2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">=0.12.2"
+  },
+  "_id": "mithril-mapper@1.0.0"
+}
