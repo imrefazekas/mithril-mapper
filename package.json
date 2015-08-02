@@ -1,6 +1,6 @@
 {
   "name": "mithril-mapper",
-  "version": "1.2.0",
+  "version": "1.2.5",
   "mod-project-name": "mithril-mapper",
   "description": "mithril-mapper",
   "keywords": [
@@ -33,5 +33,5 @@
   "engines": {
     "node": ">=0.12.2"
   },
-  "_id": "mithril-mapper@1.2.0"
+  "_id": "mithril-mapper@1.2.5"
 }
