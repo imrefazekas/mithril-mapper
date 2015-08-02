@@ -12,6 +12,8 @@ Features:
 - can reset the model to default values
 - can update the model by plain JS objects
 - exports generate plain JS objects from model.
+- adds helper functions to the controller to manipulat arrays: addTo, hasIn, removeFrom, clean
+- optionally extends Mithril models with validation services following the syntax of [vindication.js](https://github.com/imrefazekas/vindication.js)
 
 
 # Installation
