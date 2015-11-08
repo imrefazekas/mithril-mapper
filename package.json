@@ -1,12 +1,12 @@
 {
   "name": "mithril-mapper",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "mod-project-name": "mithril-mapper",
   "description": "mithril-mapper",
   "keywords": [
     "mithril",
     "mapper",
-	"plain"
+    "plain"
   ],
   "homepage": "https://github.com/imrefazekas/mithril-mapper",
   "repository": {
@@ -28,6 +28,8 @@
     "moment": "~2"
   },
   "devDependencies": {
+    "mithril": "^0.2.0",
+    "moment": "^2.10.6"
   },
   "scripts": {},
   "engines": {
