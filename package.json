@@ -1,6 +1,6 @@
 {
   "name": "mithril-mapper",
-  "version": "1.6.5",
+  "version": "1.7.0",
   "mod-project-name": "mithril-mapper",
   "description": "mithril-mapper",
   "keywords": [
@@ -23,7 +23,7 @@
   "license": "MIT",
   "main": "lib/MithrilMapper.js",
   "dependencies": {
-    "isa.js": "^1.5.0",
+    "isa.js": "^1.6.0",
 	"mithril": "^0.2.2-rc.1",
   	"moment": "^2.11.2"
   },
