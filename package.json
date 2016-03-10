@@ -1,6 +1,6 @@
 {
   "name": "mithril-mapper",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "mod-project-name": "mithril-mapper",
   "description": "mithril-mapper",
   "keywords": [
@@ -24,8 +24,8 @@
   "main": "lib/MithrilMapper.js",
   "dependencies": {
     "isa.js": "^1.6.1",
-	"mithril": "^0.2.2-rc.1",
-  	"moment": "^2.11.2"
+	"mithril": "^0.2.3",
+  	"moment": "^2.12.0"
   },
   "devDependencies": {
 	  "chai": "^3.5.0",
