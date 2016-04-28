@@ -1,6 +1,6 @@
 {
   "name": "mithril-mapper",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "mod-project-name": "mithril-mapper",
   "description": "mithril-mapper",
   "keywords": [
@@ -24,19 +24,19 @@
   "main": "lib/MithrilMapper.js",
   "dependencies": {
     "isa.js": "^1.6.1",
-	"mithril": "^0.2.3",
-  	"moment": "^2.12.0"
+    "mithril": "^0.2.4",
+    "moment": "^2.13.0"
   },
   "devDependencies": {
-	  "chai": "^3.5.0",
-      "gulp": "^3.9.1",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
     "gulp-eslint": "~2",
-	"gulp-load-plugins": "^1.2.0",
-	"gulp-mocha": "^2.2.0"
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-mocha": "^2.2.0"
   },
   "browser": {
-	   "fs": false,
-	   "child_process": false
+    "fs": false,
+    "child_process": false
    },
   "scripts": {},
   "engines": {
